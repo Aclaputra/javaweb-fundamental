@@ -13,3 +13,7 @@ run with apache tomcat :
 ```bash
 mvn -DskipTests clean package tomcat7:run
 ```
+
+references :
+- https://www.youtube.com/watch?v=_PpFIcqq-IA&list=PLV1-tdmPblvyaCTcYR9u7k4G24uVDZT0v&index=7&ab_channel=DevOpswithDimasMaryanto
+- https://www.tutorialspoint.com/maven/maven_build_test_project.htm

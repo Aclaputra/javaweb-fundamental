@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [25/Sep/2022:06:59:35 +0700] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [25/Sep/2022:06:59:54 +0700] "GET /bootcamp-java-webapp HTTP/1.1" 302 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [25/Sep/2022:06:59:55 +0700] "GET /bootcamp-java-webapp/ HTTP/1.1" 200 52 http-bio-8080-exec-4 673
+0:0:0:0:0:0:0:1 - - [25/Sep/2022:06:59:55 +0700] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [25/Sep/2022:07:00:00 +0700] "GET / HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [25/Sep/2022:07:00:01 +0700] "GET /bootcamp-java-webapp HTTP/1.1" 302 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [25/Sep/2022:07:00:01 +0700] "GET /bootcamp-java-webapp/ HTTP/1.1" 200 52 http-bio-8080-exec-8 3

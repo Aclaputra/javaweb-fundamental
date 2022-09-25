@@ -1,4 +1,4 @@
-#java-webapp
+# java-webapp
 java ee, apache tomcat7, openJDK 11
 ```bash
 mvn archetype:generate \

@@ -13,6 +13,8 @@ run with apache tomcat :
 ```bash
 mvn -DskipTests clean package tomcat7:run
 ```
+## some tips from me :
+- we should remember all of the import package name as much as possible, when we're confuse how to use it just open javadoc about it.
 
 references :
 - https://www.youtube.com/watch?v=_PpFIcqq-IA&list=PLV1-tdmPblvyaCTcYR9u7k4G24uVDZT0v&index=7&ab_channel=DevOpswithDimasMaryanto
